@@ -18,6 +18,7 @@ Python -- R -- MATLAB -- SQL -- Java -- Github
 You can contact me via
 #### LinkedIn: https://www.linkedin.com/in/irenegcantera/
 #### Gmail: irenegcantera@gmail.com
+#### Twitter: https://twitter.com/irenegcantera
 
 <!--
 **irenegcantera/irenegcantera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
