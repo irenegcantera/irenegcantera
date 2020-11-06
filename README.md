@@ -11,15 +11,7 @@ Here you will find a part of my codes! I hope you enjoy it!
 
 ## ⚡ Languages and Tools 
 
-Python/R
-
-MATLAB
-
-SQL
-
-Java
-
-Github
+Python/R  MATLAB  SQL  Java  Github
 
 ## 💬 Contact me 
 
