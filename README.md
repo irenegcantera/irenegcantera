@@ -1,4 +1,31 @@
-### Hi there 👋
+## Hi there 👋🌱 Welcome to my world!
+It's Irene! I'm graduate in Marine Sciences and I have experience in data analysis and databases. I'm interested in GIS, remote sensing and spatial data analysis. I'm learning programming and web application development, and I am currently preparing my first project 
+
+Here you will find a part of my codes! I hope you enjoy it!
+
+## 🔭 What are you going to find in my github? 
+
+#### Data analysis and visualization
+#### Application development
+#### Machine learning
+
+## ⚡ Languages and Tools 
+
+Python/R
+
+MATLAB
+
+SQL
+
+Java
+
+Github
+
+## 💬 Contact me 
+
+You can contact me via
+#### LinkedIn: https://www.linkedin.com/in/irenegcantera/
+#### Gmail: irenegcantera@gmail.com
 
 <!--
 **irenegcantera/irenegcantera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
