@@ -1,17 +1,11 @@
 ## Hi there 👋🌱 Welcome to my world!
-It's Irene! I'm graduate in Marine Sciences and I have some experience in data analysis with R and databases with Access. I'm interested in GIS, remote sensing and spatial data analysis. I'm learning programming and web application development, and I am currently preparing my first project.
+It's Irene! I'm graduate in Marine Sciences and I have some experience in data analysis with R and databases with Access. I'm interested in GIS, remote sensing and spatial data analysis. I'm learning programming and web application development.
 
 Here you will find a part of my codes! I hope you enjoy it!
 
-## 🔭 What are you going to find in my github? 
+## ⚡ Languages
 
-#### Data analysis and visualization
-#### Application development
-#### Machine learning
-
-## ⚡ Languages and Tools 
-
-Python -- R -- MATLAB -- SQL -- Java -- Github
+Java -- R -- MATLAB -- SQL -- Python
 
 ## 💬 Contact me 
 
