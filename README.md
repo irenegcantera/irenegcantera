@@ -1,5 +1,5 @@
 ## Hi there 👋🌱 Welcome to my world!
-It's Irene! I'm graduate in Marine Sciences and I have some experience in data analysis with R and databases with Access. I'm interested in GIS, remote sensing and spatial data analysis. I'm learning programming and web application development.
+It's Irene! I'm graduate in Marine Sciences and I have some experience in data analysis and databases. I'm interested in GIS, remote sensing and spatial data analysis. I'm learning programming and web application development.
 
 Here you will find a part of my codes! I hope you enjoy it!
 
