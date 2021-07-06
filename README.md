@@ -7,6 +7,14 @@ Here you will find a part of my codes! I hope you enjoy it!
 
 Java -- R -- MATLAB -- SQL -- Python
 
+## ⚡ IDEs
+
+Eclipse
+
+Apache Netbeans
+
+Visual Studio Code
+
 ## 💬 Contact me 
 
 You can contact me via
