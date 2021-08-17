@@ -11,6 +11,8 @@ Java -- R -- MATLAB -- SQL -- Python
 
 Spring Boot
 
+Django
+
 ## ✨ IDEs
 
 Eclipse
