@@ -5,9 +5,9 @@ Here you will find a part of my codes! I hope you enjoy it!
 
 ## ⚡ Languages
 
-Java -- R -- MATLAB -- SQL -- Python
-
 [![The most used](https://github-readme-stats.vercel.app/api/top-langs/?username=irenegcantera&theme=vue&layout=compact&langs_count=8)](https://github.com/irenegcantera/github-readme-stats)
+
+Other languages: R - MATLAB - SQL 
 
 ## 🌱 Frameworks
 
