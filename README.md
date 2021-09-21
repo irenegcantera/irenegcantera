@@ -11,17 +11,17 @@ Other languages: R - MATLAB - SQL
 
 ## 🌱 Frameworks
 
-Spring Boot
-
 Django
+
+Spring Boot
 
 ## ✨ IDEs
 
 Eclipse
 
-Apache Netbeans
-
 Visual Studio Code
+
+Apache Netbeans
 
 ## 📫 Reach me
 
