@@ -15,6 +15,8 @@ Django
 
 Spring Boot
 
+Vue.js
+
 ## ✨ IDEs
 
 Eclipse
