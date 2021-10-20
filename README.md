@@ -5,7 +5,7 @@ Here you will find a part of my codes! I hope you enjoy it!
 
 ## ⚡ Languages
 
-[![The most used](https://github-readme-stats.vercel.app/api/top-langs/?username=irenegcantera&theme=vue&layout=compact&langs_count=10)](https://github.com/irenegcantera/github-readme-stats)
+[![The most used](https://github-readme-stats.vercel.app/api/top-langs/?username=irenegcantera&theme=vue&langs_count=5)](https://github.com/irenegcantera/github-readme-stats)
 
 Other languages: R - MATLAB - SQL - JavaScript 
 
@@ -37,6 +37,7 @@ You can contact me via email (irenegcantera@gmail.com) or LinkedIn.
 <!--
 [![The most used](https://github-readme-stats.vercel.app/api/top-langs/?username=irenegcantera&theme=vue)](https://github.com/irenegcantera/github-readme-stats)
 [![The most used](https://github-readme-stats.vercel.app/api/top-langs/?username=irenegcantera&theme=vue&layout=compact&langs_count=8)](https://github.com/irenegcantera/github-readme-stats)
+[![The most used](https://github-readme-stats.vercel.app/api/top-langs/?username=irenegcantera&theme=vue&layout=compact&langs_count=10)](https://github.com/irenegcantera/github-readme-stats)
 
 **irenegcantera/irenegcantera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
