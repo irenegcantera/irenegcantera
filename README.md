@@ -7,23 +7,15 @@ Here you will find a part of my codes! I hope you enjoy it!
 
 [![The most used](https://github-readme-stats.vercel.app/api/top-langs/?username=irenegcantera&theme=vue&langs_count=5)](https://github.com/irenegcantera/github-readme-stats)
 
-Other languages: R - MATLAB - SQL - JavaScript 
+Other languages: R&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;MATLAB&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;SQL&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;JavaScript 
 
 ## 🌱 Frameworks
 
-Django
-
-Spring Boot
-
-Vue.js
+Django&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Spring Boot&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Vue.js
 
 ## ✨ IDEs
 
-Eclipse
-
-Visual Studio Code
-
-Apache Netbeans
+Eclipse&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Visual Studio Code&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Apache Netbeans
 
 ## 📫 Reach me
 
