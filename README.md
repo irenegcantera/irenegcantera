@@ -11,11 +11,11 @@ Other languages: &nbsp;&nbsp;&nbsp;R&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;MATLAB&
 
 ## 🌱 Frameworks
 
-Django&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Spring Boot&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Vue.js
+Django
 
 ## ✨ IDEs
 
-Eclipse&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Visual Studio Code&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Apache Netbeans
+Visual Studio Code&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Eclipse&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Apache Netbeans
 
 ## 📫 Reach me
 
@@ -32,7 +32,7 @@ You can contact me via email (irenegcantera@gmail.com) or LinkedIn.
 [![The most used](https://github-readme-stats.vercel.app/api/top-langs/?username=irenegcantera&theme=vue&layout=compact&langs_count=10)](https://github.com/irenegcantera/github-readme-stats)
 
 **irenegcantera/irenegcantera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Spring Boot&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Vue.js
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
