@@ -13,6 +13,8 @@ Other languages: &nbsp;&nbsp;&nbsp;R&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;MATLAB&
 
 Django
 
+Bootstrap
+
 ## ✨ IDEs
 
 Visual Studio Code&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Eclipse&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Apache Netbeans
