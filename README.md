@@ -7,7 +7,7 @@ Here you will find a part of my codes! I hope you enjoy it!
 
 [![The most used](https://github-readme-stats.vercel.app/api/top-langs/?username=irenegcantera&theme=vue&langs_count=6)](https://github.com/irenegcantera/github-readme-stats)
 
-Other languages: &nbsp;&nbsp;&nbsp;R&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;MATLAB&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;SQL&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;JavaScript 
+Other languages: &nbsp;&nbsp;&nbsp;JavaScript&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;R&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;MATLAB
 
 ## 🌱 Frameworks
 
@@ -15,16 +15,23 @@ Django
 
 Bootstrap
 
+## 📫 Database
+
+MySQL
+
+MongoDB
+
+PostgreSQL
+
 ## ✨ IDEs
 
 Visual Studio Code&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Eclipse&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Apache Netbeans
 
-## 📫 Reach me
+
+## 💬 Contact me 
 
 <a href="https://www.linkedin.com/in/irenegcantera/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/irenegcantera"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-
-## 💬 Contact me 
 
 You can contact me via email (irenegcantera@gmail.com) or LinkedIn.
 
