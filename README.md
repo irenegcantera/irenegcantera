@@ -13,6 +13,10 @@ Other languages: &nbsp;&nbsp;&nbsp;JavaScript&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbs
 
 Django
 
+Laravel
+
+Angular
+
 Bootstrap
 
 ## 📫 Database
