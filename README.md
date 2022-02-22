@@ -11,13 +11,7 @@ Other languages: &nbsp;&nbsp;&nbsp;JavaScript&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbs
 
 ## 🌱 Frameworks
 
-Django
-
-Laravel
-
-Angular
-
-Bootstrap
+&nbsp;&nbsp;&nbsp;Django&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Laravel&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Angular&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;Bootstrap
 
 ## 📫 Database
 
