@@ -7,7 +7,7 @@ Here you will find a part of my codes! I hope you enjoy it!
 
 [![The most used](https://github-readme-stats.vercel.app/api/top-langs/?username=irenegcantera&theme=vue&layout=compact&langs_count=8&hide=hack,shell)](https://github.com/irenegcantera/github-readme-stats)
 
-Other languages: &nbsp;&nbsp;&nbsp;JavaScript&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;R&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;MATLAB
+Other languages: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;MATLAB
 
 ## 🌱 Frameworks
 
@@ -15,11 +15,7 @@ Other languages: &nbsp;&nbsp;&nbsp;JavaScript&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbs
 
 ## 📫 Database
 
-MySQL
-
-MongoDB
-
-PostgreSQL
+&nbsp;&nbsp;&nbsp;MySQL&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;MongoDB&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;PostgreSQL&nbsp;&nbsp;&nbsp;
 
 ## ✨ IDEs
 
