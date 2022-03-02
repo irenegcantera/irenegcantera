@@ -7,7 +7,7 @@ Here you will find a part of my codes! I hope you enjoy it!
 
 [![The most used](https://github-readme-stats.vercel.app/api/top-langs/?username=irenegcantera&theme=vue&layout=compact&langs_count=8&hide=hack,shell,blade)](https://github.com/irenegcantera/github-readme-stats)
 
-Other languages: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;MATLAB
+Other languages: &nbsp;&nbsp;&nbsp;R&nbsp;&nbsp;&nbsp;-&nbsp;&nbsp;&nbsp;MATLAB
 
 ## 🌱 Frameworks
 
